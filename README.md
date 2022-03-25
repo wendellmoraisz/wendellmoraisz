@@ -1,4 +1,4 @@
-## Hello, i am Wendell :)
+## Hi, i am Wendell :)
 
 I'm a front-end development student and passionate about technology.
 
