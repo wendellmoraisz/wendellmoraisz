@@ -1,6 +1,6 @@
 ## Hi, i am Wendell =D
 
-Web development student and passionate about technology.
+Software developer and passionate about technology.
 
 <div align="left">
   <a href="https://github.com/wendellmoraisz">
