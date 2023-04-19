@@ -23,9 +23,3 @@ Software developer and passionate about technology.
  <img alt="GIT" src="https://img.shields.io/badge/git-%230d1117.svg?style=for-the-badge&logo=git"/>
  <img alt="Docker" src="https://img.shields.io/badge/docker-%230d1117.svg?style=for-the-badge&logo=docker"/>
 </p>
- 
-##   
-   
-<div> 
- <a href = "mailto:wendellmorais.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
