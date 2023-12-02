@@ -17,7 +17,7 @@ Software developer and passionate about technology.
  <img alt="Typescript" src="https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript"/>
  <img alt="Node" src="https://img.shields.io/badge/node.js-%230d1117.svg?style=for-the-badge&logo=node.js"/>
  <img alt="React" src="https://img.shields.io/badge/react-%230d1117.svg?style=for-the-badge&logo=react"/>
- <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%230d1117?style=for-the-badge&logo=mongodb"/>
+ <img alt="MongoDB" src="https://img.shields.io/badge/mongo-%230d1117?style=for-the-badge&logo=mongodb"/>
  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%230d1117.svg?style=for-the-badge&logo=mysql"/>
  <img alt="Linux" src="https://img.shields.io/badge/linux-%230d1117.svg?style=for-the-badge&logo=linux"/>
  <img alt="GIT" src="https://img.shields.io/badge/git-%230d1117.svg?style=for-the-badge&logo=git"/>
