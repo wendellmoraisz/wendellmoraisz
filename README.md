@@ -1,10 +1,9 @@
-## Hi, i am Wendell =D
+## Hi, i am Wendell <img height="30rem" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348">
 
 Software developer and passionate about technology.
 
 <div align="left">
-  <a href="https://github.com/wendellmoraisz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendellmoraisz&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img  height="180em" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellmoraisz&hide_border=true&layout=compact&langs_count=6&theme=github_dark"/>
 </div>
 </div>
