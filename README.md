@@ -14,7 +14,7 @@ Software developer and passionate about technology.
 <p align="left"><a href="https://bermeo.dev">
   <img alt="C#" src="https://img.shields.io/badge/.net-%230d1117.svg?style=for-the-badge&logo=csharp"/>
  <img alt="Typescript" src="https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript"/>
- <img alt="Node" src="https://img.shields.io/badge/node.js-%230d1117.svg?style=for-the-badge&logo=node.js"/>
+ <img alt="PHP" src="https://img.shields.io/badge/PHP-%230d1117.svg?style=for-the-badge&logo=php"/>
  <img alt="React" src="https://img.shields.io/badge/react-%230d1117.svg?style=for-the-badge&logo=react"/>
  <img alt="React" src="https://img.shields.io/badge/angular-%230d1117.svg?style=for-the-badge&logo=angular"/>
  <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%230d1117?style=for-the-badge&logo=mongodb"/>
