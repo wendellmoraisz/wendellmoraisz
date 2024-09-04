@@ -12,11 +12,11 @@ Software developer and passionate about technology.
   ##
   
 <p align="left"><a href="https://bermeo.dev">
-  <img alt="C#" src="https://img.shields.io/badge/.net-%230d1117.svg?style=for-the-badge&logo=csharp"/>
+  <img alt="C#"src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white"/>
+  <img alt=".NET" src="https://img.shields.io/badge/.net-%230d1117.svg?style=for-the-badge"/>
  <img alt="Typescript" src="https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript"/>
- <img alt="PHP" src="https://img.shields.io/badge/PHP-%230d1117.svg?style=for-the-badge&logo=php"/>
  <img alt="React" src="https://img.shields.io/badge/react-%230d1117.svg?style=for-the-badge&logo=react"/>
- <img alt="React" src="https://img.shields.io/badge/angular-%230d1117.svg?style=for-the-badge&logo=angular"/>
+ <img alt="React" src="https://img.shields.io/badge/angular-%230d1117.svg?style=for-the-badge&logo=angular&logoColor=c3002f"/>
  <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%230d1117?style=for-the-badge&logo=mongodb"/>
  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%230d1117.svg?style=for-the-badge&logo=mysql"/>
  <img alt="Linux" src="https://img.shields.io/badge/linux-%230d1117.svg?style=for-the-badge&logo=linux"/>
