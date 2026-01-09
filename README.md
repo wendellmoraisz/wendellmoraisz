@@ -1,27 +1,22 @@
-## Hi, i am Wendell =D
+## Hi, I am Wendell =D
 
 Software developer and passionate about technology.
 
-<div align="left">
-  <img  height="200em" src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif" >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellmoraisz&hide_border=true&layout=compact&langs_count=6&theme=github_dark"/>
-</div>
-</div>
-  
-  
-  ##
-  
-<p align="left"><a href="https://bermeo.dev">
-  <img alt="C#"src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white"/>
-  <img alt=".NET" src="https://img.shields.io/badge/.net-%230d1117.svg?style=for-the-badge"/>
-  <img alt="Python" src="https://img.shields.io/badge/python-%230d1117.svg?style=for-the-badge&logo=python"/>
-  <img alt="Typescript" src="https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript"/>
-  <img alt="React" src="https://img.shields.io/badge/react-%230d1117.svg?style=for-the-badge&logo=react"/>
-  <img alt="Next.js" src="https://img.shields.io/badge/nextjs-%230d1117.svg?style=for-the-badge&logo=nextdotjs"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%230d1117.svg?style=for-the-badge&logo=mysql"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-%230d1117.svg?style=for-the-badge&logo=postgresql"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%230d1117?style=for-the-badge&logo=mongodb"/>
-  <img alt="Linux" src="https://img.shields.io/badge/linux-%230d1117.svg?style=for-the-badge&logo=linux"/>
-  <img alt="GIT" src="https://img.shields.io/badge/git-%230d1117.svg?style=for-the-badge&logo=git"/>
-  <img alt="Docker" src="https://img.shields.io/badge/docker-%230d1117.svg?style=for-the-badge&logo=docker"/>
-</p>
+<img height="200em" src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif" />
+
+[![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)](https://bermeo.dev)
+![.NET](https://img.shields.io/badge/.net-%230d1117.svg?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-%230d1117.svg?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/fastapi-%230d1117.svg?style=for-the-badge&logo=fastapi)
+![Pytest](https://img.shields.io/badge/pytest-%230d1117.svg?style=for-the-badge&logo=pytest)
+![TypeScript](https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/react-%230d1117.svg?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/nextjs-%230d1117.svg?style=for-the-badge&logo=nextdotjs)
+![MySQL](https://img.shields.io/badge/mysql-%230d1117.svg?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%230d1117.svg?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/mongodb-%230d1117?style=for-the-badge&logo=mongodb)
+![Linux](https://img.shields.io/badge/linux-%230d1117.svg?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/git-%230d1117.svg?style=for-the-badge&logo=git)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%230d1117.svg?style=for-the-badge&logo=githubactions)
+![Docker](https://img.shields.io/badge/docker-%230d1117.svg?style=for-the-badge&logo=docker)
+
